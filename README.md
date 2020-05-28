@@ -4,7 +4,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/sairajsawant/comment-system.git
+https://github.com/vikassharma1999/comment-system.git/
 
 
 # Go into the comment-system directory
