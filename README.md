@@ -6,10 +6,6 @@
 # Clone this repository
 https://github.com/vikassharma1999/comment-system.git/
 
-
-# Go into the comment-system directory
-cd comment-system/
-
 # Install dependencies for backend
 npm install
 
