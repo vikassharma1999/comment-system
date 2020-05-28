@@ -6,7 +6,7 @@ const expressWs = require('express-ws');
 require('dotenv').config();
 
 const app = express();
-const port = process.env.port || 6000;
+const port = process.env.port || 4000;
 
 const corsOptions = {
   exposedHeaders: 'auth-header',
